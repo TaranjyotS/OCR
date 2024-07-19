@@ -9,5 +9,7 @@ Contains the project report for in-depth understanding of the OCR system.
 
 ## Images
 The `Images` directory constitutes of 2 sub-directories:
+    
     1. *training_datasets*: Contains the image that is used to train our system.
+    
     2. *sample_datasets*: Contains the images of hand-written characters which we want to run against our system.
